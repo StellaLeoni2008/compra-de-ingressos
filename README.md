@@ -6,12 +6,15 @@
 ## 💻 Linguagens usadas no projeto
 <img loading="lazy" src="https://img.shields.io/badge/HTML-orange"/>      <img loading="lazy" src="https://img.shields.io/badge/CSS-blue"/>     <img loading="lazy" src="https://img.shields.io/badge/JavaScript-yellow"/>
 
---- 
+---
 
 ## 📌 Sobre
-O *Sistema de Compra de Ingressos* foi desenvolvido como parte das atividades do curso **Alura – Lógica de Programação: praticando com desafios**.
-O objetivo do projeto foi praticar lógica de programação utilizando JavaScript, criando uma aplicação simples que simula a compra de ingressos para diferentes setores de um evento. Assim como outros desafios do curso, o foco principal foi aplicar a lógica de programação e a manipulação de elementos da página, sem aprofundamento em HTML e CSS.
-Neste projeto, o usuário pode selecionar o tipo de ingresso desejado (pista, cadeira inferior ou cadeira superior) e informar a quantidade que deseja comprar. O sistema então verifica a disponibilidade de ingressos em cada setor, atualiza a quantidade restante exibida na interface e informa ao usuário se a compra foi realizada com sucesso ou se não há ingressos suficientes disponíveis.
+
+O *Compra de Ingressos* foi desenvolvido como parte das atividades do curso **Alura – Lógica de Programação: praticando com desafios**.
+
+O objetivo do projeto foi praticar lógica de programação utilizando JavaScript para criar interações dinâmicas em uma aplicação de compra de ingressos.
+
+Neste sistema, o usuário pode selecionar diferentes tipos de ingressos e definir a quantidade desejada para compra. A aplicação realiza a validação da quantidade disponível e atualiza automaticamente os valores exibidos na interface.
 
 ---
 
@@ -25,15 +28,15 @@ Neste projeto, o usuário pode selecionar o tipo de ingresso desejado (pista, ca
 ---
 
 ## 🧠 Conceitos Fundamentais Praticados
-Durante o desenvolvimento deste projeto, foram aplicados conceitos importantes de programação, como:
-- Estruturação e manipulação de variáveis
-- Uso de condicionais para controlar diferentes fluxos da aplicação
+Durante o desenvolvimento deste projeto, foram aplicados conceitos essenciais de programação, como:
+- Manipulação do DOM
 - Captura de valores inseridos pelo usuário
-- Conversão de tipos de dados para realizar cálculos numéricos
-- Manipulação do DOM para atualizar informações na página
-- Verificação de disponibilidade antes de executar uma ação
-- Atualização dinâmica da interface com base nas ações do usuário
-- Organização da lógica da aplicação por meio de funções
+- Estruturas condicionais
+- Manipulação de eventos
+- Atualização dinâmica da interface
+- Uso de funções para organizar a lógica da aplicação
+- Validação de informações
+- Controle do estado da aplicação
 
 ---
 
@@ -43,7 +46,7 @@ Para visualizar:
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/StellaLeoni2008/carrinho-de-compras.git
+git clone https://github.com/StellaLeoni2008/compra-de-ingressos.git
 ```
 
 2. Abra o arquivo ```index.html``` no navegador.
